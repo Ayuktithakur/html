@@ -8,9 +8,9 @@ DOCTYPE html>
 
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
-
 </body>
 </html>
+
 <!-- Basic structure using some attributes inside a head tag -->
 <!DOCTYPE html>
 <html lang="en">
