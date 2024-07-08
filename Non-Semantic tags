@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width= , initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header> 
+    <h1>Non-Sementic Tags</h1>
+    </header>
+    <main>
+        <h2>Div Tag</h2>
+        <h3> Welcoming Topics</h3> 
+       <div><p> Hii</p>
+        <p>Welcome  </p>
+        <p>how's the Journey was? </p>
+    </div> 
+        <h2> Span tag</h2>
+        <h3>Welcoming Topics</h3>
+        <span>
+        Always keep growing up.
+        </span>
+      </main>
+</body>
+</html>
