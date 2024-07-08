@@ -2,40 +2,60 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
 </head>
 <body>
- <header> <h1>Lists</h1></header>
+<header> <h1>Lists</h1></header>
 <main>
-    <h2>Unordered list</h2>
-     <ul type="disk">
-        <li>Apple </li>
-        <li>Orange </li>
-         </ul>
-         <ul type="circle">
-            <li>Apple </li>
-            <li>Orange </li>
-             </ul>
-             <ul type="square">
-                <li>Apple </li>
-                <li>Orange </li> 
-                </ul> 
-                <h2>Ordered list</h2> 
-                <ol type="1">
-                    <li>Apple </li>
-                    <li>Orange </li>
-                     </ol>
-                     <ol type="A">
-                        <li>Apple </li>
-                        <li>Orange </li>
-                         </ol>
-                         <ol type="I">
-                            <li>Apple </li>
-                            <li>Orange </li>
-                             </ol>             
+<h2>Unordered list</h2>
+<ul type="disk">
+<li>Apple </li>
+<li>Orange </li>
+</ul>
+<ul type="circle">
+<li>Apple </li>
+<li>Orange </li>
+</ul>
+<ul type="square">
+<li>Apple </li>
+<li>Orange </li> 
+</ul> 
+<h2>Ordered list</h2> 
+<ol type="1">
+<li>Apple </li>
+<li>Orange </li>
+</ol>
+<ol type="A">
+<li>Apple </li>
+<li>Orange </li>
+</ol>
+<ol type="I">
+<li>Apple </li>
+<li>Orange </li>
+</ol>             
 </main>
 </body>
 </html>
 <!--table-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+</head>
+<body>
+<header> <h1> Table  </h1> </header>
+<main> 
+<table border="1">
+<caption>Friut names and their colour </caption>
+<thead> <tr> <th>NAME</th><th>Colour</th></tr></thead>
+<tbody> <tr><td>Orange  </td><td>Orange </td></tr>
+<tr><td>Apple</td><td>Red  </td></tr>
+<tr><td>Grapes  </td><td>Green  </td> </tr></tbody>
+</table>
+</main>
+</body>
+</html>
