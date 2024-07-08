@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width= , initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header> 
+        <h1> My portfolio</h1>
+    </header>
+    <main> 
+       <section>Education: Graduated by B.tech degree.<br></section>
+       section> Experience: Diploma ,Coding Skils ,etc.</section>
+       <article> MY story : About getting intrest in coding.</article>     
+       <aside ><a href="https://github.com/" target="_main">Git Hub (For aadveritsement.)  </a> </aside>
+      </main>
+</body>
+</html>
