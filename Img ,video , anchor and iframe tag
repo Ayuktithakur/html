@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <header> Link basis</header>
+   <main>
+    <h3> Absolute link concept</h3>
+    <img src="https://badrinath-kedarnath.gov.in/Assets/Images/kedaarnath.jpg"alt="Image"><br>
+    <iframe src="......">Link </iframe><Br>
+   <video src="....."> Video</video>
+   <h3> relative link basic</h3>
+   <img src="/image.jpg"><br>
+   <video src="/workshop.mov"> My workshop</video>
+  <a herf="......">Link example</a>
+   </main>
+ </body>
+</html>
